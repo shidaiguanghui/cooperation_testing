@@ -16,3 +16,5 @@ if __name__ == "__main__":
     print(f"{num1} + {num2} = {add_two_numbers(num1, num2)}")
     num3 = 10
     print(f"{num1} + {num2} + {num3}= {add_two_numbers(num1, num2, num3)}")
+    num4=20
+    print(f"{num1} + {num2} + {num4}= {add_two_numbers(num1, num2, num4)}")
